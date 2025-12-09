@@ -22,13 +22,14 @@ const MemeGallery = () => {
             >
               <div className="w-full overflow-hidden rounded-lg">
                 {meme.type === "image" && (
-                  <Image
-                    width={500}
-                    height={500}
-                    src={meme.src}
-                    alt={meme.alt}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                  />
+                 <Image
+  width={500}
+  height={500}
+  src={meme.src || "s1.png"} // fallback if undefined
+  alt={meme.alt || "Meme image"}
+  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+/>
+
                 )}
 
                 {meme.type === "twitter" && meme.twitterUrl && (
