@@ -77,10 +77,10 @@ const SHORT_DESCRIPTION = `Say The Word On The Beat`;
 const MAIN_IMAGE = "/s1.jpg";
 const CONTRACT_ADDRESS = "HyALADvPqyn6oDNkDSnKmKKNgtYb3QTgnvVnAw4Epump";
 const CONTRACT_ADDRESS_HREF = `https://raydium.io/swap/?outputCurrency=${CONTRACT_ADDRESS}`;
-const TWITTER = "https://twitter.com/";
+const TWITTER = "https://x.com/i/communities/1997672860475625808";
 const TELEGRAM = "https://t.me/";
-const DEXSCREENER = "https://dexscreener.com/solana/";
-const DEXTOOLS = "https://www.dextools.io/app/en/solana/pair-explorer";
+const DEXSCREENER = "https://dexscreener.com/solana/HyALADvPqyn6oDNkDSnKmKKNgtYb3QTgnvVnAw4Epump";
+const DEXTOOLS = "https://www.dextools.io/app/en/solana/HyALADvPqyn6oDNkDSnKmKKNgtYb3QTgnvVnAw4Epump";
 const MEME_HEADER = `${NAME} memes`;
 const MEME_DESCRIPTION = `The infinite meme collection - "there's always a ${NAME} for that."`;
 const MEMES = [
@@ -109,9 +109,9 @@ const MEMES = [
         twitterUrl: "https://x.com/ohlancesol/status/1997752212278161895?s=20"
     }
 ];
-const META_TITLE = "Cooker - Most Memeable Dog";
+const META_TITLE = "$Say - Say The Word On The Beat";
 const META_DESCRIPTION = "The question isn’t whether we can bring back the past. It’s whether we have the courage to rebuild the future. We are the lost, the forgotten, the disillusioned—and that’s our strength. Together, we can bring back the spirit of the Q4 bull run. Together, we can be the meme, the movement, the change. The community was always the real meme. And now, it’s time to bring it back.";
-const META_FAV_ICON = "/W.jpg";
+const META_FAV_ICON = "/s1.jpg";
 const CAROUSEL_IMAGES = [
     "/s1.jpg",
     "/s2.png",

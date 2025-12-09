@@ -10,10 +10,10 @@ export const CONTRACT_ADDRESS = "HyALADvPqyn6oDNkDSnKmKKNgtYb3QTgnvVnAw4Epump";
 export const CONTRACT_ADDRESS_HREF = `https://raydium.io/swap/?outputCurrency=${CONTRACT_ADDRESS}`;
 
 // Social
-export const TWITTER = "https://twitter.com/";
+export const TWITTER = "https://x.com/i/communities/1997672860475625808";
 export const TELEGRAM = "https://t.me/";
-export const DEXSCREENER = "https://dexscreener.com/solana/";
-export const DEXTOOLS = "https://www.dextools.io/app/en/solana/pair-explorer";
+export const DEXSCREENER = "https://dexscreener.com/solana/HyALADvPqyn6oDNkDSnKmKKNgtYb3QTgnvVnAw4Epump";
+export const DEXTOOLS = "https://www.dextools.io/app/en/solana/HyALADvPqyn6oDNkDSnKmKKNgtYb3QTgnvVnAw4Epump";
 
 // MEME Section
 export const MEME_HEADER = `${NAME} memes`;
@@ -42,10 +42,10 @@ export const MEMES = [
 ];
 
 // Page metadata
-export const META_TITLE = "Cooker - Most Memeable Dog";
+export const META_TITLE = "$Say - Say The Word On The Beat";
 export const META_DESCRIPTION =
   "The question isn’t whether we can bring back the past. It’s whether we have the courage to rebuild the future. We are the lost, the forgotten, the disillusioned—and that’s our strength. Together, we can bring back the spirit of the Q4 bull run. Together, we can be the meme, the movement, the change. The community was always the real meme. And now, it’s time to bring it back.";
-export const META_FAV_ICON = "/W.jpg";
+export const META_FAV_ICON = "/s1.jpg";
 
 // Carousel
 export const CAROUSEL_IMAGES = [
